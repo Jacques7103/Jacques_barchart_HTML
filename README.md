@@ -10,8 +10,8 @@ Chart 1 :
 - Link : https://jacques7103.github.io/Jacques_barchart_HTML/
 
 Chart 2 :
-- Repository :
-- Link :
+- Repository : https://github.com/Jacques7103/Jacques_Chart2_HTML
+- Link : https://jacques7103.github.io/Jacques_Chart2_HTML/
 
 Chart 3 :
 - Repository :
