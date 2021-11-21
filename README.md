@@ -1,7 +1,10 @@
 # Bar Chart Project
 Name : Ferdinand Jacques
+
 Class : L1AC
+
 NIM : 2501982600
+
 Courses : Human and Computer Interaction_COMP6800001
 
 # Project Directory
