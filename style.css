@@ -3,6 +3,7 @@ body {
 }
 
 .name {
+    max-width: 100%;
     background-color: #388087;
     padding-top: 3px;
     padding-bottom: 3px;
@@ -13,11 +14,14 @@ body {
 }
 
 h1 {
+    max-width: 30%;
     font-size: 40px;
     color: #c2edce;
 }
 
 .name a{
+    max-width: 70%;;
+    height: 50%;
     position: relative;
     float: right;
     margin-top: -73px;
@@ -26,6 +30,7 @@ h1 {
 }
 
 a {
+    max-width: 6%;
     margin: 31px;
     padding: 6px;
 }
